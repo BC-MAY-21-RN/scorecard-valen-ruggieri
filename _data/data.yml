@@ -59,14 +59,7 @@ career-profile:
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Systems engineering
-    university: UTN Corboba Argentina
-    time: 2019 - 2020
-    details: |
-    In the first year of systems engineering I was able to acquire knowledge that serve as a basis for me to understand the fundamentals and logic of programming as I studied subjects such as Algorithms and data structures which introduced me to the notions of thinking about the concept of data, data types, control structures, resolution strategies, data structures, search algorithms, path and ordering, recursion, abstractions with procedures and functions and parameter passing.
-    Which will help me to acquire a solid base of logic and reasoning on which I rely when learning and manipulating concepts in any programming language or framework.
-    
-
+ 
   - degree: Full stack developer
     university: CoderHouse
     time: 2021 - current
