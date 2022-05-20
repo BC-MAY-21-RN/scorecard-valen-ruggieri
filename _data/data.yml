@@ -54,8 +54,8 @@ sidebar:
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
-  summary: |
-   I am a full stack developer with ambition and desire to grow professionally. I am passionate about learning new skills and technologies, as well as using them in projects, always with the goal of finding the most versatile solutions to the problems I am presented with. scelerisque vitae sed dui.
+  summary:    I am a full stack developer with ambition and desire to grow professionally. I am passionate about learning new skills and technologies, as well as using them in projects, always with the goal of finding the most versatile solutions to the problems I am presented with. scelerisque vitae sed dui.
+
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
@@ -63,15 +63,14 @@ educationcomplete:
  - degree: Systems engineering
     university: UTN Corboba Argentina
     time: 2019 - 2020
-    details: |
-    In the first year of systems engineering I was able to acquire knowledge that serve as a basis for me to understand the fundamentals and logic of programming as I studied subjects such as Algorithms and data structures which introduced me to the notions of thinking about the concept of data, data types, control structures, resolution strategies, data structures, search algorithms, path and ordering, recursion, abstractions with procedures and functions and parameter passing.
+    details:  In the first year of systems engineering I was able to acquire knowledge that serve as a basis for me to understand the fundamentals and logic of programming as I studied subjects such as Algorithms and data structures which introduced me to the notions of thinking about the concept of data, data types, control structures, resolution strategies, data structures, search algorithms, path and ordering, recursion, abstractions with procedures and functions and parameter passing.
     Which will help me to acquire a solid base of logic and reasoning on which I rely when learning and manipulating concepts in any programming language or framework.
     
+   
   - degree: Full stack developer
     university: CoderHouse
     time: 2021 - current
-    details: |
-    Activities and groups: Classes, weekly challenges and final projects for each course.
+    details: Activities and groups Classes, weekly challenges and final projects for each course.
       Web Development
       - Html and Css
       - Sass
@@ -101,25 +100,25 @@ educationcomplete:
       - Heroku
       - AWS
       - GraphQL
+    
 
 
   - degree: FrontEnd developer
     university: OpenBootcamp
     time: 2022 Jan - current
-    details: |
-    
-    HTML y CSS: forms and tables - bootstrap - responsive design - using the Sass preprocessor - animations and transitions - using flexbox and grid design
-    Javascript: Estructuras de control - Trabajar con sets y objetos - Gestion de errores - Modulos - POO - Depuracion de codigo - Gestion de eventos - Node y Express
-    GIT: Control de versiones - Repositorios locales y remotos - Conflictos y soluciones - Gitflow - CI/CD - Acciones de Github - Gitlab CI - Pipelines de Bitbucket
-    React Js: Components and hierarchies - Hooks - Debugging - Good structuring practices - Conditional curly braces - Forms - Routes - Asynchronous processes - Requests with Fetch and Axios - Asynchronous global states - Webpack - Build projects - Custom Hooks - PWAs - Testing in react with Jest - Docker - Authentication with Firebase - Push notifications - Database with firestore - Hosting projects - TypeScript in react - Testing e2e with Cypress - Test automation 
+    details:  HTML y CSS forms and tables - bootstrap - responsive design - using the Sass preprocessor - animations and transitions - using flexbox and grid design
+    Javascript Estructuras de control - Trabajar con sets y objetos - Gestion de errores - Modulos - POO - Depuracion de codigo - Gestion de eventos - Node y Express
+    GIT Control de versiones - Repositorios locales y remotos - Conflictos y soluciones - Gitflow - CI/CD - Acciones de Github - Gitlab CI - Pipelines de Bitbucket
+    React Js Components and hierarchies - Hooks - Debugging - Good structuring practices - Conditional curly braces - Forms - Routes - Asynchronous processes - Requests with Fetch and Axios - Asynchronous global states - Webpack - Build projects - Custom Hooks - PWAs - Testing in react with Jest - Docker - Authentication with Firebase - Push notifications - Database with firestore - Hosting projects - TypeScript in react - Testing e2e with Cypress - Test automation 
 
+    
+   
    
 
   - degree: Full stack dev junior
     university: Argentina training program
     time: 2022 Mar - current
-    details: |
-    Fundamentals
+    details: Fundamentals
     As an introduction, use a language created specifically to learn how to program and incorporate the basic fundamentals of programming.
 
     Imperative Programming
@@ -128,6 +127,7 @@ educationcomplete:
     Object Programming
     As an introduction to the object paradigm I used Ruby. The goal was to solve problems and model reality using objects that communicate with each other.
 
+    
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 
