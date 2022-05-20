@@ -3,29 +3,37 @@
 #
 
 sidebar:
-  about: False 
-  education: False
+  about: False # NO MODIFICAR
+  education: False # NO MODIFICAR
 
   # Profile information
-  name: Valentin Ruggieri
-  tagline: React Native Mobile Developer 
-  avatar: escudo.png 
+  name: My Full Name # Nombre completo
+  tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
+  avatar: escudo.png # No modificar
 
   # Actualiza tus datos de contacto
-  email: valentin.r.ruggieri@gmail.com
+  email: name@brightcoders.com
   phone:
   website: # No agregar http://
-  linkedin: https://www.linkedin.com/in/valentinruggieri/
-  github: https://github.com/valen-ruggieri
+  linkedin: brightcoders
+  github: brightcoders
+  gitlab:
+  bitbucket:
+  twitter: '@BrightCoders'
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  codewars:
+  goodreads: # Number-Username, e.g. 123456-alandoe
 
-
-
+  # Actualiza según los idiomas y niveles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: Fluent 
+      level: Fluent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
-      level: Native 
+      level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+
+    - idiom: German
+      level: Colloquial
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
@@ -35,83 +43,71 @@ sidebar:
     - item: Team Work
       link: # dejar en blanco
 
-    - item: Time optimization
+    - item: Time Management
       link: # dejar en blanco
-      
-    - item: Responsibility At Work
-      link: # dejar en blanco
-      
-    - item: Collaborative
-      link: # dejar en blanco
-      
-    - item: Logical Thinking
-      link: # dejar en blanco
-      
-    - item: Adaptability
-      link: # dejar en blanco         
-      
 
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
-  summary:    I am a full stack developer with ambition and desire to grow professionally. I am passionate about learning new skills and technologies, as well as using them in projects, always with the goal of finding the most versatile solutions to the problems I am presented with. scelerisque vitae sed dui.
-
-
+  summary: |
+    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-
-  - degree: Systems engineering
-    university: UTN Corboba Argentina
-    time: 2019 - 2020
-    details:  
-      In the first year of systems engineering I was able to acquire knowledge that serve as a basis for me to understand the fundamentals and logic of programming as I studied subjects such as Algorithms and data structures which introduced me to the notions of thinking about the concept of data, data types, control structures, resolution strategies, data structures, search algorithms, path and ordering, recursion, abstractions with procedures and functions and parameter passing.
-      Which will help me to acquire a solid base of logic and reasoning on which I rely when learning and manipulating concepts in any programming language or framework.
-    
-   
-  - degree: Full stack developer
-    university: CoderHouse
-    time: 2021 - current
-    details: 
-    Activities and groups Classes, weekly challenges and final projects for each course.
-      - Web Development : Html and Css - Sass - Boostrap - Responsive Design
-      - Javascript : DOM Management - OOP - jQuery - Ajax - Asynchronism and Promises
-      - React Js : API Consumption - State Management with Hooks - Requests with Fetch and Axios - Webpack - Forms - Firebase Database 
-      - Backend : Node Js - Express Js - Npm - Pug and Ejs - Websockets - SQL - MongoDB - Heroku - AWS - GraphQL
-     
-      
-
-  - degree: FrontEnd developer
-    university: OpenBootcamp
-    time: 2022 Jan - current
-    details:  HTML y CSS forms and tables - bootstrap - responsive design - using the Sass preprocessor - animations and transitions - using flexbox and grid design
-    Javascript Estructuras de control - Trabajar con sets y objetos - Gestion de errores - Modulos - POO - Depuracion de codigo - Gestion de eventos - Node y Express
-    GIT Control de versiones - Repositorios locales y remotos - Conflictos y soluciones - Gitflow - CI/CD - Acciones de Github - Gitlab CI - Pipelines de Bitbucket
-    React Js Components and hierarchies - Hooks - Debugging - Good structuring practices - Conditional curly braces - Forms - Routes - Asynchronous processes - Requests with Fetch and Axios - Asynchronous global states - Webpack - Build projects - Custom Hooks - PWAs - Testing in react with Jest - Docker - Authentication with Firebase - Push notifications - Database with firestore - Hosting projects - TypeScript in react - Testing e2e with Cypress - Test automation 
-
-    
-   
-   
-
-  - degree: Full stack dev junior
-    university: Argentina training program
-    time: 2022 Mar - current
-    details: Fundamentals
-    As an introduction, use a language created specifically to learn how to program and incorporate the basic fundamentals of programming.
-
-    Imperative Programming
-    Using the JavaScript language, I learned the most important notions of imperative programming and data structure.
-
-    Object Programming
-    As an introduction to the object paradigm I used Ruby. The goal was to solve problems and model reality using objects that communicate with each other.
-
-    
-
+  - degree: Applied Scientist full-time at AWS
+    university: Germany
+    time: 2020 Oct - current
+    details: |
+  - degree: PhD in Computer vision and Machine learning
+    university: Heidelberg University
+    time: 2015 - 2020
+    details: |
+      Unsupervised deep learning for automatic behavior analysis
+        - Unsupervised learning
+        - Representaion learning
+        - Automatic Behavior Analysis
+  - degree: Internship (Master Thesis)
+    university: Tobii
+    time: 2014 - 2015
+    details: |
+      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
+        - Deep learning
+        - Hand Gesture
+  - degree: Bachelor Degree
+    university: Politecnico di Torino (Torino, Italy)
+    time: 2009 - 2012
+    details: |
+      Master degree in Computer Engineering
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
-
+experiences:
+  - role: Lead Developer
+    time: 2015 - Present
+    company: Startup Hubs, San Francisco
+    details: |
+      Describe your role here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+      Cum sociis natoque penatibus et magnis dis parturient montes,
+      nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+      error sit voluptatem accusantium doloremque laudantium, totam rem
+      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+      architecto beatae vitae dicta sunt explicabo.
+        - Bullet point
+        - Bullet point
+  - role: Senior Software Engineer
+    time: 2014 - 2015
+    company: Google, London
+    details: |
+      Describe your role here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+      Cum sociis natoque penatibus et magnis dis parturient montes,
+      nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      pellentesque eu, pretium quis, sem.
+      
 # Registra aquí los proyectos en los que has participado
 projects:
     title: Projects
-    
+
     assignments:
       - title: Velocity
         link: "#hook"
@@ -132,7 +128,7 @@ projects:
       - title: Delta
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-        
+
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
 # 40% para Advanced beginner
@@ -143,23 +139,23 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-    - name: Javascript
-      level: 90%
+    - name: Python
+      level: 20%
 
-    - name: TypeScript
+    - name: PyTorch
+      level: 40%
+
+    - name: Tensorflow
+      level: 60%
+
+    - name: Caffe
       level: 80%
 
-    - name: HTML y CSS
+    - name: Matlab
       level: 100%
 
-    - name: React
-      level: 85%
-
-    - name: Node Js
-      level: 100%
-
-    - name: MongoDB
-      level: 80%
+    - name: C/C++
+      level: 40%
 
 # NO MODIFICAR
 footer: >
