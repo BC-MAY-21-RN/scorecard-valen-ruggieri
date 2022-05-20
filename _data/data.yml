@@ -73,37 +73,12 @@ educationcomplete:
     time: 2021 - current
     details: 
     Activities and groups Classes, weekly challenges and final projects for each course.
-      Web Development
-      - Html and Css
-      - Sass
-      - Boostrap
-      - Responsive Design
-      Javascript
-      - DOM Management
-      - OOP
-      - jQuery
-      - Ajax
-      - Asynchronism and Promises
-      React Js
-      - API Consumption
-      - State Management with Hooks
-      - Requests with Fetch and Axios
-      - Webpack
-      - Forms
-      - Firebase Database
-      Backend
-      - Node Js
-      - Express Js
-      - Npm
-      - Pug and Ejs
-      - Websockets
-      - SQL
-      - MongoDB
-      - Heroku
-      - AWS
-      - GraphQL
-    
-
+      - Web Development : Html and Css - Sass - Boostrap - Responsive Design
+      - Javascript : DOM Management - OOP - jQuery - Ajax - Asynchronism and Promises
+      - React Js : API Consumption - State Management with Hooks - Requests with Fetch and Axios - Webpack - Forms - Firebase Database 
+      - Backend : Node Js - Express Js - Npm - Pug and Ejs - Websockets - SQL - MongoDB - Heroku - AWS - GraphQL
+     
+      
 
   - degree: FrontEnd developer
     university: OpenBootcamp
